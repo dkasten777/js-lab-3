@@ -1,4 +1,11 @@
 "use strict";
+
+
+
+/* experience a couple of technical, not directly code-related issues with this one...not too excited about not finsihing everything here... */
+
+
+
 let Jane = {
     name: "Jane",
     score: 98,
